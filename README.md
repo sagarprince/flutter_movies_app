@@ -2,4 +2,4 @@
 
 movies application using moviedb rest api and flutter block architecture.
 
-![](https://github.com/sagarprince/flutter_movies_app/blob/master/movies_app.gif
+![preview](https://github.com/sagarprince/flutter_movies_app/blob/master/movies_app.gif)
